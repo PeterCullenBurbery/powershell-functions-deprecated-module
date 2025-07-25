@@ -13,7 +13,7 @@
     # This will be updated to something like RootModule = ...
 
     # Version number of this module.
-    ModuleVersion     = '1.8.0'
+    ModuleVersion     = '1.9.0'
 
     # Supported PSEditions
     # CompatiblePSEditions = @()
@@ -107,13 +107,15 @@
             LicenseUri               = 'https://opensource.org/licenses/MIT'
 
             # A URL to the main website for this project.
-            ProjectUri               = 'https://github.com/PeterCullenBurbery/powershell-modules'
+            ProjectUri               = 'https://github.com/PeterCullenBurbery/powershell-functions-deprecated-module'
 
             # A URL to an icon representing this module.
             # IconUri = ''
 
             # ReleaseNotes of this module
             ReleaseNotes             = @'
+Version 1.9.0: I moved PowershellFunctions from https://github.com/PeterCullenBurbery/powershell-modules to https://github.com/PeterCullenBurbery/powershell-functions-deprecated-module. URL has been updated accordingly.
+
 Version 1.8.0: Updated release notes. PowershellFunctions@https://www.powershellgallery.com/packages/PowershellFunctions/ is no longer actively maintained. Moving on torward PowershellFunctions005@https://www.powershellgallery.com/packages/PowershellFunctions005/ and PowershellFunctions007@https://www.powershellgallery.com/packages/PowershellFunctions007/.
 
 Version 1.7.3: Removed C# components. StartProcessLongFilePath was not working so I removed it.
