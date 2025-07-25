@@ -1,2 +1,4 @@
 # powershell-functions-deprecated-module
 Powershell functions -> deprecated module.
+
+From the readme, | PowerShell utilities for configuring Windows systems, managing environments, customizing time and date settings, and automating administrative tasks. PowershellFunctions is no longer used. Use either PowershellFunctions005@"{https://github.com/PeterCullenBurbery/powershell-functions-005}/{https://www.powershellgallery.com/packages/PowershellFunctions005/}" or PowershellFunctions007@"{https://github.com/PeterCullenBurbery/powershell-functions-007}/{https://www.powershellgallery.com/packages/PowershellFunctions007/}". PowershellFunctions005/PowershellFunctions007 will be updated. PowershellFunctions is no longer being maintained.
